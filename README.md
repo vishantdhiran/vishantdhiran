@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishant Kumar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
